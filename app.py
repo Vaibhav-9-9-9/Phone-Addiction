@@ -6,6 +6,22 @@ import pickle
 with open('phone.pkl','rb') as f:
     model=pickle.load(f)
 
+
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-image: url("https://imgs.search.brave.com/LuUhXZG5p9wR_cLzAHfVXZHnxQL9nBRqyCH4TnKvKqI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTYv/Mjk1LzcxMi9zbWFs/bC9hZGRpY3Rpb24t/dG8tc21hcnRwaG9u/ZS1hbmQtc29jaWFs/LW5ldHdvcmtzLXBo/b3RvLmpwZw");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
 st.title("Phone Addiction Prediction")
 
 if st.toggle("Start Prediction"):
