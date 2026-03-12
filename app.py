@@ -11,7 +11,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://imgs.search.brave.com/LuUhXZG5p9wR_cLzAHfVXZHnxQL9nBRqyCH4TnKvKqI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTYv/Mjk1LzcxMi9zbWFs/bC9hZGRpY3Rpb24t/dG8tc21hcnRwaG9u/ZS1hbmQtc29jaWFs/LW5ldHdvcmtzLXBo/b3RvLmpwZw");
+        background-image: url("https://media.gettyimages.com/id/537460890/photo/teenager-sending-email-from-smart-phone-in-her-bed.jpg?s=612x612&w=0&k=20&c=oHJD6aekNxpJv91QM9KsGkNsJkFPTtEp4lzJ5nrtd-k=");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
