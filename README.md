@@ -1,4 +1,4 @@
-### 📱 Phone Addiction Prediction
+## 📱 Phone Addiction Prediction
 
 📌 **Project Overview**
 
@@ -8,15 +8,15 @@ This project aims to predict the level of smartphone addiction based on various 
 
 The project analyzes factors such as daily phone usage, sleep hours, social interaction levels, mental health indicators, and app usage patterns to build predictive models that estimate a user's addiction level.
 
-🎯 Problem Statement
+🎯 **Problem Statement**
 
 The objective of this project is to develop a machine learning model that predicts the level of phone addiction using user behavior, smartphone usage statistics, and psychological factors. Early detection of addiction patterns can help individuals and researchers better understand unhealthy smartphone usage habits.
 
-📂 Dataset
+📂 **Dataset**
 
 The dataset contains information about users' smartphone usage behavior and psychological indicators.
 
-Features in the dataset include:
+*Features in the dataset include:*
 
 Age
 
@@ -58,11 +58,11 @@ Family Communication
 
 Weekend Usage Hours
 
-Target Variable
+*Target Variable*
 
 Addiction Level
 
-🧪 Exploratory Data Analysis (EDA)
+🧪 **Exploratory Data Analysis (EDA)**
 
 During EDA, the following steps were performed:
 
@@ -76,7 +76,7 @@ Feature scaling using RobustScaler
 
 Data visualization for understanding feature distributions
 
-🤖 Machine Learning Models Used
+🤖 **Machine Learning Models Used**
 
 Multiple machine learning algorithms were implemented and compared:
 
@@ -100,7 +100,7 @@ Voting Regressor
 
 Hyperparameter tuning was performed for several models to improve performance.
 
-📊 Model Evaluation
+📊 **Model Evaluation**
 
 Models were evaluated using:
 
@@ -112,11 +112,11 @@ Model Performance Visualization
 
 The goal was to identify the model that generalizes best without overfitting.
 
-📈 Results
+📈 **Results**
 
 The performance of different models was compared using training and testing scores, and ensemble models such as Stacking and XGBoost showed strong predictive performance.
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 Python
 
@@ -134,7 +134,7 @@ XGBoost
 
 Jupyter Notebook
 
-📁 Project Structure
+📁 **Project Structure**
 
 Phone-Addiction
 │
@@ -145,7 +145,7 @@ Phone-Addiction
 
 ├── README.md
 
-🚀 How to Run the Project
+🚀 **How to Run the Project**
 
 1️⃣ Clone the repository
 
@@ -163,7 +163,7 @@ pip install -r requirements.txt
 
 jupyter notebook
 
-📌 Future Improvements
+📌 **Future Improvements**
 
 Deploy the model using Streamlit or Flask
 
@@ -173,9 +173,9 @@ Add more behavioral and psychological features
 
 Improve model performance using advanced tuning
 
-👨‍💻 Author
+👨‍💻 **Author**
 
 Vaibhav M
 
-GitHub:
+**GitHub:**
 https://github.com/Vaibhav-9-9-9
