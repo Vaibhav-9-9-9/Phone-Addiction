@@ -138,8 +138,11 @@ Jupyter Notebook
 
 Phone-Addiction
 │
+
 ├── phone_addiction_dataset.csv
+
 ├── Phone_Addiction_Prediction.ipynb
+
 ├── README.md
 
 🚀 How to Run the Project
