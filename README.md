@@ -1,4 +1,5 @@
 📱 Phone Addiction Prediction
+
 📌 Project Overview
 
 Smartphones have become an essential part of daily life, but excessive usage can lead to phone addiction, negatively impacting mental health, productivity, sleep patterns, and social interactions.
