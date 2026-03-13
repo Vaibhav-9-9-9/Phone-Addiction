@@ -1,6 +1,6 @@
-📱 Phone Addiction Prediction
+### 📱 Phone Addiction Prediction
 
-📌 Project Overview
+📌 **Project Overview**
 
 Smartphones have become an essential part of daily life, but excessive usage can lead to phone addiction, negatively impacting mental health, productivity, sleep patterns, and social interactions.
 
@@ -162,6 +162,7 @@ pip install -r requirements.txt
 4️⃣ Run the Jupyter Notebook
 
 jupyter notebook
+
 📌 Future Improvements
 
 Deploy the model using Streamlit or Flask
