@@ -135,8 +135,10 @@ XGBoost
 Jupyter Notebook
 
 📁 Project Structure
+
 Phone-Addiction
 │
+
 ├── phone_addiction_dataset.csv
 ├── Phone_Addiction_Prediction.ipynb
 ├── README.md
